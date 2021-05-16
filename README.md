@@ -1,4 +1,5 @@
-# BSripts
+# BScripts
+"Bull-shi... Scripts"
 This is a repository of random security related scripts I have written over time. 
 
 ## lterangeextenderpassgen.py
